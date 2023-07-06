@@ -1,0 +1,52 @@
+* { background-color: aquamarine;}
+
+h1 { background-color: #a52a45;
+
+    border-radius: 15px;
+
+}
+h4 { 
+    background-color: darkviolet;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 15px;
+    border-color: chocolate;
+    
+      
+}
+h1 { text-align: center;
+    }
+.ART { text-align: center;
+}
+
+.birra { width: 400px;
+         height: 400px;
+         margin-top: 20px;
+
+}
+
+.seccion { background-color: darkolivegreen;}
+
+footer { background-color: rgb(188, 188, 231);
+}
+
+
+
+.BOTON { background-color: darkolivegreen;
+         padding-bottom: 10px;
+         margin-top: 25px;
+         margin-bottom: 25px;
+}
+.textos { border-radius: 15px;
+          background-color: #1f5841;
+          margin-left: 20px;
+          margin-top: 20px;
+          border-color: #a52a45;
+          border-style:outset;
+          border-width: 5px;
+          
+}
+
+.lista { list-style-type: circle;
+         
+}
