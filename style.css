@@ -1,0 +1,14 @@
+section { background-color: yellow;
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: center;
+
+}
+
+section div { background-color: aqua;
+              margin: 10px;
+              width: 50px;
+              padding: 10px;
+              text-align: center;
+
+}
